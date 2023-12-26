@@ -1,2 +1,2 @@
-# MustBeDone
-Training .zip list
+# 아직 작업하지 않은 데이터셋들의 모임
+
